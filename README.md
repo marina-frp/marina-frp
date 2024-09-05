@@ -1,4 +1,4 @@
-## Oi! Eus sou a Marina Freitas! 👋
+## Oi! Eu sou a Marina Freitas! 👋
 
 - 🔭 Hoje sou estudante do SENAI
 - 🤓 Estudando PHP e MySQL
